@@ -8,8 +8,6 @@ Realese Goals -
 3) Terceira meta - concluir tarefas anteriores.
 
 User Story -
-Como usuário do site, eu quero fazer log-in 
-Como usuário do site, eu quero fazer log-in 
-
+Como usuário do site, eu quero consultar meus dados que registrei porque eu preciso me sentir seguro
 Tarefas Técnicas- 
 Pendente
