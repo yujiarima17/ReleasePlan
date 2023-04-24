@@ -24,7 +24,7 @@ Medição de Pontuação - RICE
 <table>
   <thead>
     <tr>
-      <th>Funcionalidade : Consulta de dados pessoais do usuário no front-end</th>
+      <th>Funcionalidade</th>
       <th>Reach</th>
       <th>Impact</th>
       <th>Confidence</th>
@@ -33,6 +33,7 @@ Medição de Pontuação - RICE
   </thead>
   <tbody>
     <tr>
+      <td> Consulta de dados pessoais do usuário no front-end</td>
       <td>Todos</td>
       <td>2</td>
       <td>100%<td>
