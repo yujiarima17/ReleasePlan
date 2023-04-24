@@ -15,9 +15,28 @@ Como usuário do site, eu quero consultar meus dados que registrei porque eu pre
 
 Tarefas Técnicas- 
 
-1) Implementar um Banco de Dados SQL ( pontuação - 5)
-2) Implementar uma lógica de query que consiga acessar os dados registrados do cliente no Banco de Dados ( pontuação - 8)
-3) Implementar um serviço back-end que acesse os campos inseridos pelo usuário ( pontuação - 3)
+1) Implementar um Banco de Dados SQL 
+2) Implementar uma lógica de query que consiga acessar os dados registrados do cliente no Banco de Dados 
+3) Implementar um serviço back-end que acesse os campos inseridos pelo usuário 
 
-Medição de Pontuação - Planning Poker
+Medição de Pontuação - RICE 
+
+<table>
+  <thead>
+    <tr>
+      <th>Reach</th>
+      <th>Impact</th>
+      <th>Confidence</th>
+      <th>Effort</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Impacta todos usuários do site</td>
+      <td>3</td>
+      <td>Alto grau de confiança</td>
+      <td>SPrazo de 1 Sprint para concluir tarefa, necessidade de 5 Story Points</td>
+    </tr>
+  </tbody>
+</table>
 
