@@ -24,6 +24,7 @@ Medição de Pontuação - RICE
 <table>
   <thead>
     <tr>
+      <th>Funcionalidade : Consulta de dados pessoais do usuário no front-end</th>
       <th>Reach</th>
       <th>Impact</th>
       <th>Confidence</th>
@@ -32,10 +33,10 @@ Medição de Pontuação - RICE
   </thead>
   <tbody>
     <tr>
-      <td>Impacta todos usuários do site</td>
-      <td>3</td>
-      <td>Alto grau de confiança</td>
-      <td>SPrazo de 1 Sprint para concluir tarefa, necessidade de 5 Story Points</td>
+      <td>Todos</td>
+      <td>2</td>
+      <td>100%<td>
+      <td> 5 Story Points</td>
     </tr>
   </tbody>
 </table>
